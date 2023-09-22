@@ -67,5 +67,10 @@ body{
 #Generate{
 color: aqua;
 font-weight: 400;
-
+}
+::-webkit-scrollbar{
+  display: none;
+}
+.IL{
+font-size: 10px;
 }
